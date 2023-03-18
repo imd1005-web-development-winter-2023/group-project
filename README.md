@@ -6,28 +6,59 @@
 
 **Semester**: Winter 2023
 
-**Due Date**: 11:59 AM (noon) 2023-04-11
+**Presentations**: 12:00 PM - 5:00 PM 2023-04-11
 
-**Assessment**: The group project deliverable (code) is worth 30% of your final grade and marked out of 100. The group project presentation is worth 10% of your final grade and is also marked out of 100. 
+**Final Deliverable Due Date**: 11:59 AM (noon) 2023-04-11
+
+**Assessment**: In total, the group project (deliverable and presentation) is worth 40% of your final grade
 
 ## TLDR
 
-### Deliverable 
+The group project is spread out over a four week period. During Week 1 project teams will have a kick-off session where participants form teams, work towards defining a specific problem, and then sketch out a solution to solve their identified problem. Week 2 and week 3 will involve development and testing of their solution. Week 4 will feature team innovation pitches during our final class.
 
-1. One
-2. Two
+## Table of contents 
 
-### Presentation
+- [Schedule of events](#schedule-of-events)
+- [Project description](#description)
+- [Code acceptance criteria](#project-deliverable-acceptance-criteria)
 
-1. One
-2. Two
+## Schedule of events
+
+### Week 1 - Problem definition
+
+- Monday March 20th - Sunday March 26th
+- Introduce challenge, discuss expectations and form teams.
+- 
+
+### Week 2 - Initial developement and experimentation phase
+
+- Monday March 27th - Sunday April 2nd
+
+### Week 3 - Final development and testing phase
+
+- Monay April 3rd - Sunday April 9th
+
+### Week 4 - Innovation pitch
+
+-  Sunday April 9th - Tuesday April 11th
+
+
+
+## Description
+
+TODO 
+
+
+
+## Project deliverable acceptance criteria 
+
+* Publish your code to GitHub using the GitHub classrooms generated repository
+* Use the GitHub Pages service to host your pages
+* Ensure you have a license file in your repository (recommend MIT license)
+* Ensure you have the assignment readme.md file in your repository
+
 
 # Assignment 03 copy - don't look below
-
-## TLDR
-
-1. Build a Todo list wep app.
-2. Add the code for your web app to a GitHub assignment 03 repository and host the app online using the GitHub pages service.
 
 ## Description
 
@@ -44,28 +75,7 @@ Your Assignment 03 involves building and shipping an awesome and innovative Todo
 5. You should also have an awesome empty state when a user first opens your app ([examples](https://www.toptal.com/designers/ux/empty-state-ux-design)).  
 6. Though not required, consider "branding" your app with a cool product name, and logo. 
 
-## Instructions for the code review
 
-It is your responsibility to both request a code review from your team members and to conduct a code review for one of your team members. 
-
-### Request code review 
-
-1. When you are between 50% - 100% completed your assignment 03, inform your team members that you require a code review
-
-### Conduct code review 
-
-1. Work with your team members to identify when someone requests a code review 
-2. Create a GitHub Issue in your team members assignment 03 repository to record the results of the following checks 
-3. Check to see that their HTML code validates using the [WC3 HTML Validator](https://validator.w3.org)
-4. Check to see that their CSS code validates using the [W3C CSS Validator](https://jigsaw.w3.org/css-validator/)
-5. Check to see that basic functionality is working in their web app (add todo, delete todo)
-
-## Assignment acceptance criteria 
-
-* Publish your code to GitHub using the GitHub classrooms generated repository
-* Use the GitHub Pages service to host your pages
-* Ensure you have a license file in your repository (recommend MIT license)
-* Ensure you have the assignment readme.md file in your repository
 
 ## Grading rubric
 
@@ -143,38 +153,6 @@ The following are some samples of excellent Todo List applications out there. Yo
  
 </dl>
 
-## Helpful links
-
-### HTML Resources
-
-* [Intro to HTML - Prof3ssorSt3v3](https://www.youtube.com/watch?v=KUmuiqV1xME&list=PLyuRouwmQCjncCz8JChyPNRBvm2ONGYa2)
-* [HTML Tutorial - MDN](https://developer.mozilla.org/en-US/docs/Learn/HTML)
-
-### CSS Resources 
-
-* [Intro to CSS - Prof3ssorSt3v3](https://www.youtube.com/watch?v=KFKScNHa-8M&list=PLyuRouwmQCjl4wTSNbb8RTKZuyMhoIxBe&index=2)
-* [CSS Tutorials - MDN](https://developer.mozilla.org/en-US/docs/Web/CSS/Tutorials)
-
-### JavaScript Resources
-
-* [Learn JavaScript - MDN](https://developer.mozilla.org/en-US/docs/Learn)
-* [The Modern JavaScript Tutorial](https://javascript.info)
-* [LearnJS.org](https://www.learn-js.org)
-
-### Images and Icons 
-
-* [Pexels](https://www.pexels.com)
-* [Unsplash](https://unsplash.com)
-* [The noun project](https://thenounproject.com)
-
-### Inspiration 
-
-* [Article on Guerrilla User Testing](https://xd.adobe.com/ideas/process/user-testing/hallway-usability-test-guerrilla-testing/)
-* [Land Book](https://land-book.com)
-* [Best Website Gallery](https://bestwebsite.gallery/sites)
-* [One page love](https://onepagelove.com)
-* [Awwwards](https://www.awwwards.com/websites/)
-* [ui8.net](https://www.ui8.net)
 
 <!-- 
 
