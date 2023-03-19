@@ -20,7 +20,12 @@ The group project is spread out over a four week period. During Week 1 project t
 
 - [Schedule of events](#schedule-of-events)
 - [Project description](#description)
-- [Code acceptance criteria](#project-deliverable-acceptance-criteria)
+- [Project acceptance criteria](#project-acceptance-criteria)
+- [Presentation requirements](#presentation-requirements)
+- [Schedule of deliverables](#schedule-of-deliverables)
+- [Grading rubric](#grading-rubric)
+- [Late submissions](#late-submissions)
+- [Frequently Asked Questions](#frequently-asked-questions)
 
 ## Schedule of events
 
@@ -29,8 +34,9 @@ The group project is spread out over a four week period. During Week 1 project t
 - Monday March 20th - Sunday March 26th
 - Introduce project, discuss expectations and form teams.
 - Setup project repository on GitHub
-- Complete team canvas exercise 
-- Publish project summary and initial product sketches
+- Complete team canvas exercise
+- Publish product summary and initial product sketches
+- Obtain approval for project scope
 
 ### Week 2 - Initial developement and experimentation phase
 
@@ -51,27 +57,41 @@ The group project is spread out over a four week period. During Week 1 project t
 
 ### Week 4 - Innovation pitch
 
-- Sunday April 9th - Tuesday April 11th
+- Monday April 10th - Tuesday April 11th
 - Complete development of your project
 - Complete design of your presentation slides
 - Rehearse presentation
 - Presentations are performed on April 11th during the final class (pizza and snacks to be served)
 
-## Project deliverable description
+## Project description
 
 Project teams  
 
 
-## Project deliverable acceptance criteria 
+## Project acceptance criteria 
 
-* Publish your code to GitHub using the GitHub classrooms generated repository
-* Use the GitHub Pages service to host your pages
+* Publish your code to GitHub using the GitHub classrooms generated repository for your team
+* Use the GitHub Pages service to host your pages or you may use an alternative hosting service 
 * Ensure you have a license file in your repository (recommend MIT license)
-* Ensure you have the assignment readme.md file in your repository
+* Ensure you have the group project readme.md file in your repository
 
-## Project presentation description
+## Presentation requirements
 
 TODO
+
+## Schedule of deliverables
+
+|ID|Due&nbsp;date&nbsp;and&nbsp;time|Title|Description|Medium|
+|------|----|-----|-----------|------|
+|00|11:59 PM<br />2023-03-26|Repository setup|Use the GitHub Classrooms link to create your team and project repository|GitHub&nbsp;Repo|
+|01|11:59 PM<br />2023-03-26|Product summary|Use the GitHub Issue template and provide a summary of the product that the team is going to build|GitHub&nbsp;Issue|
+|02|11:59 PM<br />2023-03-26|Product sketches|Use the GitHub Issue template and provide initial design sketches|GitHub&nbsp;Issue|
+|03|05:00 PM<br />2023-03-28|Week 2 sprint plan|Use the GitHub Issue template and provide the team's sprint plan for the week|GitHub&nbsp;Issue|
+|04|11:59 PM<br />2023-04-02|Week 2 sprint retro|Use the GitHub Issue template and provide the team's sprint retro documenting what was completed for the week, what worked well, and what could be improved|GitHub&nbsp;Issue|
+|05|05:00 PM<br />2023-04-04|Week 3 sprint plan|Use the GitHub Issue template and provide the team's sprint plan for the week|GitHub&nbsp;Issue|
+|06|11:59 PM<br />2023-04-09|Week 3 sprint retro|Use the GitHub Issue template and provide the team's sprint retro documenting what was completed for the week, what worked well, and what could be improved|GitHub&nbsp;Issue|
+|07|11:59 AM<br />2023-04-11|Code submission|Submit completed code for your awesome product|GitHub&nbsp;Repo|
+|08|12:00 PM<br />2023-04-11|Pitch|Perform your presentation to the class, demo your product, speak to the challenges you experienced, and the lessons learned|In class|
 
 ## Grading rubric
 
@@ -79,12 +99,11 @@ The creation and posting of this web page is worth 25% of your final grade and m
 
 ## Late submissions
 
-* No late submissions will be accepted
+* No late submissions will be accepted for any portions of the group project
 * If the project team fails to submit their project deliverable prior to 11:59 AM (noon) on April 11th 2023, the whole team will receive a mark of **Zero (0)** for the project deliverable portion
 * If the project team fails to present their project presentation during the final class on April 11th 2023, the whole team will receive a mark of **Zero (0)** for the project presentation portion
 
-
-## Frequently Asked Questions (FAQ)
+## Frequently Asked Questions
 
 <dl>
   
