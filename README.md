@@ -27,27 +27,39 @@ The group project is spread out over a four week period. During Week 1 project t
 ### Week 1 - Problem definition
 
 - Monday March 20th - Sunday March 26th
-- Introduce challenge, discuss expectations and form teams.
-- 
+- Introduce project, discuss expectations and form teams.
+- Setup project repository on GitHub
+- Complete team canvas exercise 
+- Publish project summary and initial product sketches
 
 ### Week 2 - Initial developement and experimentation phase
 
 - Monday March 27th - Sunday April 2nd
+- Begin research and initial development of the project
+- Complete sprint planning exercise
+- Publish sprint plan at the start of the week
+- Conduct sprint retro at the end of the week
 
 ### Week 3 - Final development and testing phase
 
-- Monay April 3rd - Sunday April 9th
+- Monday April 3rd - Sunday April 9th
+- Continue development and testing of the project
+- Begin designing the project presentation
+- Complete sprint planning exercise
+- Publish sprint plan at the start of the week
+- Conduct sprint retro at the end of the week
 
 ### Week 4 - Innovation pitch
 
--  Sunday April 9th - Tuesday April 11th
+- Sunday April 9th - Tuesday April 11th
+- Complete development of your project
+- Complete design of your presentation slides
+- Rehearse presentation
+- Presentations are performed on April 11th during the final class (pizza and snacks to be served)
 
+## Project deliverable description
 
-
-## Description
-
-TODO 
-
+Project teams  
 
 
 ## Project deliverable acceptance criteria 
@@ -56,6 +68,42 @@ TODO
 * Use the GitHub Pages service to host your pages
 * Ensure you have a license file in your repository (recommend MIT license)
 * Ensure you have the assignment readme.md file in your repository
+
+## Project presentation description
+
+TODO
+
+## Grading rubric
+
+The creation and posting of this web page is worth 25% of your final grade and marked out of 100.
+
+## Late submissions
+
+* No late submissions will be accepted
+* If the project team fails to submit their project deliverable prior to 11:59 AM (noon) on April 11th 2023, the whole team will receive a mark of **Zero (0)** for the project deliverable portion
+* If the project team fails to present their project presentation during the final class on April 11th 2023, the whole team will receive a mark of **Zero (0)** for the project presentation portion
+
+
+## Frequently Asked Questions (FAQ)
+
+<dl>
+  
+  <dt>Do I have to put comments in my code?</dt>
+  <dd>No! You do not need to comment your code. That being said, it is an industry best practice to add comments to your code, so I would recommend that you add comments to your code where it makes sense, but this is not required.</dd>
+  
+  <dt>Does the web page / web app have to work in both mobile and desktop?</dt>
+  <dd>Yes! You must build your app to be completely responsive.</dd>
+  
+  <dt>Will accessbility be considered when reviewing our project deliverable?</dt>
+  <dd>Yes! You web page or web app must be compliant for WCAG 2.1 Level A</dd>
+ 
+  <dt>Can I use lorem ipsum text in my web page / web app?</dt>
+  <dd>You may use lorem ipsum if you need to but ideally by now you should be using relevant content in your projects. Though, if you don't have relevant content you are absolutely permitted to use <a href="https://www.lipsum.com">lorem ipsum</a>, <a href="https://baconipsum.com">bacon ipsum</a>, or <a href="https://veganipsum.me">vegan ipsum</a> in your designs. Keep in mind that this should not be used in cases where the meaning of the text is important, for example the call to action buttons in the hero.</dd>
+ 
+  <dt>Can I use trademarked or copywritten material on my page?</dt>
+  <dd>Yes! As this is for educational purposes, all of the source is open, and no one is trying to sell their design or code you can absolutely use trademarked or copywritten material.</dd>
+ 
+</dl>
 
 
 # Assignment 03 copy - don't look below
@@ -132,26 +180,6 @@ The following are some samples of excellent Todo List applications out there. Yo
 [Source](https://culturedcode.com/things/)
 
 
-## Frequently Asked Questions (FAQ)
-
-<dl>
-  
-  <dt>Do I have to put comments in my code?</dt>
-  <dd>No! You do not need to comment your code. That being said, it is an industry best practice to add comments to your code, so I would recommend that you add comments to your code where it makes sense, but this is not required.</dd>
-  
-  <dt>Does the web page / web app have to work in both mobile and desktop?</dt>
-  <dd>Yes! You must build your app to be completely responsive.</dd>
- 
-  <dt>Can I use lorem ipsum text in my web page / web app?</dt>
-  <dd>You may use lorem ipsum if you need to but ideally by now you should be using relevant content in your projects. Though, if you don't have relevant content you are absolutely permitted to use <a href="https://www.lipsum.com">lorem ipsum</a>, <a href="https://baconipsum.com">bacon ipsum</a>, or <a href="https://veganipsum.me">vegan ipsum</a> in your designs. Keep in mind that this should not be used in cases where the meaning of the text is important, for example the call to action buttons in the hero.</dd>
-
-  <dt>Do I need to include sketches, concepts, or initial low fidelity mockups in my submission?</dt>
-  <dd>No. If you would like to share your design or creative process I'm happy to look at them, but it is not required.</dd>
- 
-  <dt>Can I use trademarked or copywritten material on my page?</dt>
-  <dd>Yes! As this is for educational purposes, all of the source is open, and no one is trying to sell their design or code you can absolutely use trademarked or copywritten material.</dd>
- 
-</dl>
 
 
 <!-- 
