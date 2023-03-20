@@ -64,20 +64,14 @@ The group project is spread out over a four week period. During Week 1 project t
 
 ## Deliverable description
 
-Project teams must build and deliver a product. 
+Project teams must work together to build and deliver a product. Teams will have wide leeway on what they can build, though some possible options are below: 
 
-1. Use HTML, CSS, and JS to build a Todo List web app.
-2. The UI/UX is completely up to you, though it must be responsive and at a minimum enable users to view, add, mark as done, and delete `todos`. 
-3. Using user centered design principles, consider what additional properties and features your users may need for an awesome Todo list. 
-4. Your `todos` are going to have, at a minimum, a `title`, and `done` status.
-5. You should also have an awesome empty state when a user first opens your app ([examples](https://www.toptal.com/designers/ux/empty-state-ux-design)).  
-6. Though not required, consider "branding" your app with a cool product name, and logo. 
+* E-Commerce website including categories, products, and a checkout
+* Full responsive website for a non profit or commercial entity
+* Productivity app like a complex To Do Manager, Conversion Calculator, or other tool that fulfills a user need
+* A fun game like Wordle, Hangman, Checkers, Memory, Rock Paper Scissors
 
-
-* Publish your code to GitHub using the GitHub classrooms generated repository for your team
-* Use the GitHub Pages service to host your pages or you may use an alternative hosting service 
-* Ensure you have a license file in your repository (recommend MIT license)
-* Ensure you have the group project readme.md file in your repository
+You must use HTML, CSS, and JS to build your product. And your code must be pushed to GitHub using the classroom repository for the Group Project.
 
 ## Presentation description 
 
