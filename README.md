@@ -83,14 +83,14 @@ TODO
 
 |ID|Due&nbsp;date&nbsp;and&nbsp;time|Title|Description|Medium|
 |------|----|-----|-----------|------|
-|00|11:59 PM<br />2023-03-26|Repository setup|Use the GitHub Classrooms link to create your team and project repository|GitHub&nbsp;Repo|
-|01|11:59 PM<br />2023-03-26|Product summary|Use the GitHub Issue template and provide a summary of the product that the team is going to build|GitHub&nbsp;Issue|
-|02|11:59 PM<br />2023-03-26|Product sketches|Use the GitHub Issue template and provide initial design sketches|GitHub&nbsp;Issue|
-|03|05:00 PM<br />2023-03-28|Week 2 sprint plan|Use the GitHub Issue template and provide the team's sprint plan for the week|GitHub&nbsp;Issue|
-|04|11:59 PM<br />2023-04-02|Week 2 sprint retro|Use the GitHub Issue template and provide the team's sprint retro documenting what was completed for the week, what worked well, and what could be improved|GitHub&nbsp;Issue|
-|05|05:00 PM<br />2023-04-04|Week 3 sprint plan|Use the GitHub Issue template and provide the team's sprint plan for the week|GitHub&nbsp;Issue|
-|06|11:59 PM<br />2023-04-09|Week 3 sprint retro|Use the GitHub Issue template and provide the team's sprint retro documenting what was completed for the week, what worked well, and what could be improved|GitHub&nbsp;Issue|
-|07|11:59 AM<br />2023-04-11|Code submission|Submit completed code for your awesome product|GitHub&nbsp;Repo|
+|00|11:59 PM<br />2023-03-26|Repository setup|Use the GitHub Classrooms link to create your team and project repository.|GitHub&nbsp;Repo|
+|01|11:59 PM<br />2023-03-26|Product summary|Provide a summary of the product that is going to be built. This includes a highlevel product description, and what the team has decided is in scope and what is not in scope.|GitHub&nbsp;Issue|
+|02|11:59 PM<br />2023-03-26|Product sketches|Provide initial design sketches for the proposed product. These can be as simple as pencil sketches, low fidelity, or high fidelity mockups.|GitHub&nbsp;Issue|
+|03|05:00 PM<br />2023-03-28|Week 2 sprint plan|Provide the team's sprint plan for week 2. Include what is scheduled to be worked on for the week, potential blockers, challenges, and what each team member is responsible for.|GitHub&nbsp;Issue|
+|04|11:59 PM<br />2023-04-02|Week 2 sprint retro|Provide the team's sprint retro for week 2 documenting what was completed for the week, what worked well, and what could be improved.|GitHub&nbsp;Issue|
+|05|05:00 PM<br />2023-04-04|Week 3 sprint plan|Provide the team's sprint plan for week 3. Include what is scheduled to be worked on for the week, potential blockers, challenges, and what each team member is responsible for.|GitHub&nbsp;Issue|
+|06|11:59 PM<br />2023-04-09|Week 3 sprint retro|Provide the team's sprint retro for week 3 documenting what was completed for the week, what worked well, and what could be improved.|GitHub&nbsp;Issue|
+|07|11:59 AM<br />2023-04-11|Code|Submit completed code for your awesome product|GitHub&nbsp;Repo|
 |08|12:00 PM<br />2023-04-11|Pitch|Perform your presentation to the class, demo your product, speak to the challenges you experienced, and the lessons learned|In class|
 
 ## Grading rubric
