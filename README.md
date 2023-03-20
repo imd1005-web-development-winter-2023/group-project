@@ -1,4 +1,4 @@
-# Group Project - IN DRAFT
+# Group Project
 
 **Course Title**: Web Development
 
@@ -105,10 +105,10 @@ The deliverable for the project is worth 30% of your final grade and marked out 
 
 |Criteria|Total&nbsp;Marks|How we define excellence|
 |----|----|----|
-|Product summary|**5%**||
-|Product sketches|**5%**||
-|Week 2 Sprint Plan and Retro|**5%**||
-|Week 3 Sprint Plan and Retro|**5%**||
+|Product summary|**5%**|The initial product summary should include a high level description of the product that the team is building, including information on what is in scope and out of scope for the project.|
+|Product sketches|**5%**|The product sketches can be pencil sketches, or low fidelity through an app like figma or tldraw, and must be done for all web pages that are in scope.|
+|Week 2 and 3 Sprint Plan|**5%**|Sprint plans presented include what tasks are planned to be completed during the week's sprint, and whom will is assigned to each task.|
+|Week 2 and 3 Sprint Retro|**5%**|Sprint retro presented documents what tasks have been completed by the product team in the week's sprint, and lists out what tasks were not completed. Any blockers or issues are also identified.|
 |Visual design and layout|**20%**|The design presented demonstrates an excellent use of colour (or lack thereof), typography, high quality graphics, and iconography. The design also comes across as cohesive, inviting, and illustrates a focus on user experience. An excellent design also includes a way of delighting users and adding moments of charm to their experience. The solution is responsive to the users' viewport and displays well in mobile, tablet, and desktop browsers.|
 |HTML|**20%**|The HTML code submitted is well formed, structured, and complaint. Appropriate semantic elements are used throughout the document. For example, use `<header>` for the page header and `<section>` for each document section within `<main>`. Correct use of headings `<h1-h6>` and heading structure. The web page has the appropriate meta tags in the `<head>` to set the charset, viewport and IE11 legacy mode values.|
 |CSS|**20%**|The CSS code submitted is well formed, structured, and compliant. A CSS reset file is used to 'reset' all of the default browser styles. The web page renders correctly in multiple browsers, including but not limited to Firefox and / or Chrome. All CSS should be referenced from an external file. The web page should not use a `<style>` tag or a embedded `style` attributes to apply CSS to the page.|
